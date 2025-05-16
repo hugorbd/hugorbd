@@ -1,16 +1,49 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E7CC3&height=120&section=header"/>
 
-<!--
-**hugorbd/hugorbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E7CC3&size=35&center=true&vCenter=true&width=1000&lines=Hi+There!!!,+My+name's+Hugo+Rodrigues;I'm+22+years+old;I'm+Brazilian;I'm+an+BackEnd+Developer;Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### About me... 👨🏽‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm an Information Security Analyst.
+
+🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
+
+👩‍💻 Focused on Python, Linux, Windows. 
+
+🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
+
+### My knowledges🧠
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Microsoft?style=for-the-badge&logo=microsoftexcel)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<!-- ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
+
+### GitHub Stats ⚡
+<div>
+<a href="https://github.com/hugorbd">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorbd&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hugorbd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
+### Contact 📭
+<div>
+<a href="https://www.linkedin.com/in/hugodbr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/ttpepeu_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{hugorbd}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C0C0C0&height=120&section=footer"/>
