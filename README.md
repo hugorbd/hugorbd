@@ -4,22 +4,23 @@
 
 ### About me... 👨🏽‍🎓
 
-💻 I'm an Information Security Analyst.
+💻 I am a back-end developer.
 
-🎓 I'm graduate in [Systems analysis](https://en.wikipedia.org/wiki/Systems_analysis) at the [Mackenzie](https://www.mackenzie.br).
+🎓 I am a student [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at the [PUC-Campinas](https://www.puc-campinas.edu.br/).
 
-👩‍💻 Focused on Python, Linux, Windows. 
+👩‍💻 Focused on Javasript, Node, Python, Java. 
 
-🎡 My hobbies are watch american football, baseball and movies on the weekend, during week I like workout.
+🎡 My hobbies include watching Formula 1, skateboarding, drawing, and studying technologies to improve my skills in software development.
 
 ### My knowledges🧠
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Microsoft?style=for-the-badge&logo=microsoftexcel)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=Jupyter&logoColor=orange)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
