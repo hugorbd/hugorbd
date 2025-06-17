@@ -8,7 +8,7 @@
 
 🎓 I am a student [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering) at the [PUC-Campinas](https://www.puc-campinas.edu.br/).
 
-👩‍💻 Focused on Javasript, Node, Python, Java. 
+👩‍💻 Focused on Javascript, Node, Python, Java. 
 
 🎡 My hobbies include watching Formula 1, skateboarding, drawing, and studying technologies to improve my skills in software development.
 
